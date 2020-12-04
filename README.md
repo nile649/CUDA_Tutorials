@@ -1,3 +1,8 @@
+# C/C++ Cuda Tutorials
+Follows udacity cs344
+
+I will try to simply my findings in Jupyter Notebook (Google Collab).
+
 # PyCUDA Tutorials
 just for my learning...
 
