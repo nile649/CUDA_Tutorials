@@ -1,3 +1,4 @@
+```
 # http://techawarey.com/programming/install-opencv-c-c-in-ubuntu-18-04-lts-step-by-step-guide/
 
 #Step 1. Update the Ubuntu System Package
@@ -39,3 +40,4 @@ gedit test.cpp
 #Copy & Paste the code psoted in Step 6
 g++ test.cpp -o testoutput -std=c++11 `pkg-config --cflags --libs opencv`
 ./testoutput
+```
